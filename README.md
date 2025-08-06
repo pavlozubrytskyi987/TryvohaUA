@@ -2,6 +2,8 @@ TryvogaUA (Повітряна Тривога)
 
 An iOS app for Ukrainians providing real-time regional air raid and danger alerts on a beautiful interactive map. Stay informed and safe with live notifications, tailored alert filtering, and modern dark mode UI.
 
+
+
 🔥 Features
 
   - ⏱ Real-Time Alerts: Instantly see which regions or cities are under air raid threat via local Ukrainian sources.
@@ -12,6 +14,8 @@ An iOS app for Ukrainians providing real-time regional air raid and danger alert
   - 📶 Works Offline: Handle loss of signal gracefully with cached alerts and emergency fallback.
   - 🇺🇦 Ukrainian First: Ukrainian language, all official oblast/region boundaries, and emergency color cues.
 
+
+
 🔧 Built With
 
   - Swift & SwiftUI
@@ -19,6 +23,8 @@ An iOS app for Ukrainians providing real-time regional air raid and danger alert
   - Supabase (realtime alert backend)
   - PushKit
   - GeoJSON (custom rendering of oblasts & rayons on map)
+
+    
 
 📱 Screenshots
 
@@ -36,6 +42,9 @@ An iOS app for Ukrainians providing real-time regional air raid and danger alert
   - Xcode 15+
   - iOS 16.0+
 
+
+
+
 📥 Installation
 
 Clone this repo and open with Xcode:
@@ -46,17 +55,11 @@ cd TryvogaUA
 open TryvogaUA.xcodeproj
 ```
 
+
+
 🙏 Credits
 
   - Ukrainian open data & GeoJSON contributors
   - Supabase (backend)
   - Inspired by the resilience and spirit of Ukraine 🇺🇦
 
-🤝 Contributing
-
-Pull requests, ideas, and data sources to improve accuracy or performance are very welcome!
-
-TryvogaUA is free, open source, and exists to help protect and empower Ukrainians during times of crisis.
-
-You can edit/add sections (like more screenshots, credits, or API specifics) as needed!
-Let me know if you want a shorter or more technical version.
