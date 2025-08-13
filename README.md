@@ -37,29 +37,12 @@ An iOS app for Ukrainians providing real-time regional air raid and danger alert
 
  
 
-🛠️ Requirements
-
-  - Xcode 15+
-  - iOS 16.0+
 
 
 
 
-📥 Installation
-
-Clone this repo and open with Xcode:
-
-```bash
-git clone https://github.com/yourusername/TryvogaUA
-cd TryvogaUA
-open TryvogaUA.xcodeproj
-```
 
 
 
-🙏 Credits
-
-  - Ukrainian open data & GeoJSON contributors
-  - Supabase (backend)
   - Inspired by the resilience and spirit of Ukraine 🇺🇦
 
